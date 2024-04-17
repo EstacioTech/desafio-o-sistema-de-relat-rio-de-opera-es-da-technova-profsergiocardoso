@@ -1,4 +1,4 @@
-# Introdução à Programação de Computadores
+## Introdução à Programação de Computadores
 
 Bem-vindos ao repositório GitHub da disciplina de Introdução à Programação de Computadores! O GitHub é uma plataforma de hospedagem de código-fonte que utiliza o Git, um sistema de controle de versão distribuído, para gerenciar a colaboração de projetos de software. Nesta disciplina, utilizaremos o GitHub como uma ferramenta essencial por vários motivos que enriquecem o processo de aprendizado e desenvolvimento em programação. Aqui estão os principais objetivos do uso do GitHub neste curso:
 
